@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\work\C++\TCPServerForMySQL\main.cpp(50,2): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  코드를 생성하고 있습니다.
+  140 of 161 functions (87.0%) were compiled, the rest were copied from previous compilation.
+    63 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  TCPServerForMySQL.vcxproj -> C:\work\C++\TCPServerForMySQL\x64\Release\TCPServerForMySQL.exe

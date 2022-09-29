@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\work\C++\TCPServerForMySQL\main.cpp(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jdbc/mysql_connection.h': No such file or directory

@@ -1,0 +1,1 @@
+C:\work\C++\TCPClientForMySQL\Debug\TCPClientForMySQL.exe
